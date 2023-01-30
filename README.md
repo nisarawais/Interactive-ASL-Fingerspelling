@@ -1,1 +1,5 @@
-# COMP-4312
+# Interactive ASL Fingerspelling
+
+My group and I created a website application that allows the user to practice their fingerspelling skills in American Sign Language for one of our university projects. It is coded in Python and HTML. It also uses the TensorFlow to train the ASL letters.
+
+Group Members: Awais Nisar, Parth Joshi, Nicholas Santos, and Cameron Thompson
