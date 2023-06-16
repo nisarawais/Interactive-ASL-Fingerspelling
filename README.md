@@ -4,5 +4,4 @@ My group and I created a website application that allows the user to practice th
 
 Group Members: Awais Nisar, Parth Joshi, Nicholas Santos, and Cameron Thompson
 
-
-[ASL Interactive Fingerspelling.pdf](https://github.com/nisarawais/Interactive-ASL-Fingerspelling/files/11772167/ASL.Interactive.Fingerspelling.pdf)
+[American Sign Language Interactive Fingerspelling.pdf](https://github.com/nisarawais/Interactive-ASL-Fingerspelling/files/11772209/American.Sign.Language.Interactive.Fingerspelling.pdf)
